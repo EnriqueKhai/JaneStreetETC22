@@ -96,7 +96,7 @@ Then, we added a new strategy to production: at the start of each 5 minute round
 
 The result? Surprising. We were now earning roughly $600 per round and we didn't even know why HAHAHA
 
-It was around here that we advanced to 2nd overall and gained some much need confidence!
+It was around here that we advanced to 2nd overall and gained some much needed confidence!
 
 ### The Winning Strategy
 
