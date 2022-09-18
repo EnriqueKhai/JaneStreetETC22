@@ -2,6 +2,8 @@
 
 The winning strategy.
 
+![jane_street_etc_2](https://user-images.githubusercontent.com/42400406/190888314-15209690-4a9d-4da1-a4e5-da077f6ef287.jpg)
+
 ## Table of Contents
 
 - [Overview](#overview)
