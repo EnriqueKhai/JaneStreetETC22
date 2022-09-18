@@ -84,7 +84,7 @@ We were earning around $300 per round and were consistently ranking between 3rd 
 
 On our side, me and Tejas were not as productive. It was not immediately clear to me how we could detect arbitrage opportunities so Tejas took on the Mathematics while I collated live data for each round.
 
-I helped answered questions such as (1) what are the opening and closing prices of each stock for each round and (2) how many trades of each stock took place per round.
+The questions of interest included the following: (1) what are the opening and closing prices of each stock for each round and (2) how many trades of each stock took place per round.
 
 It was here that I saw something suspicious.
 
@@ -133,3 +133,9 @@ It was only after all twelve rounds of the final event had concluded and we won 
 ## Closing Thoughts
 
 This is my first experience with algorithmic trading and it was a great learning experience! If anything, seeing the number of trades per second executed by our trading bot truly opened my eyes to the world and prowess of high-frequency trading.
+
+Seeing our P&L increase steadily at first and then dramatically towards the end was also super exhilarating! That said, trading at a loss was anxiety-inducing in equal measure... the day was a roller coaster-ride to be sure!
+
+Overall, I felt the event was extremely well organized and very, very fun! The infrastructure alone must have been a humongous effort behind the scenes. The seamless execution to (1) ensure that the exchange ran smoothly and (2) rate-limited participants appropriately, (3) correctly servicing thousands of orders per minute and (4) broadcasting saids trades and other metadata to public feeds in a timely manner were especially impressive.
+
+PS. I also found it particularly thoughtful of Jane Street to include only students that have never participated in previous iterations of their ETC before - they wanted a level playing field and a better experience for everyone there!
