@@ -1,12 +1,15 @@
 # JaneStreetETC22
 
+![jane_street_etc_2](https://user-images.githubusercontent.com/42400406/190888314-15209690-4a9d-4da1-a4e5-da077f6ef287.jpg)
+
+> From left to right: Siyi, Zifeng, Tejas, and... me!
+
 This weekend, my team and I took part in Jane Street's Electronic Trading Challenge 2022 and came in at 1st place!
 
 The contest was held in Singapore, at the very luxurious *Shangri-La* hotel on 17/09/2022 from 10am till 6pm. Importantly, breakfast and lunch were catered (yum)!
 
 ## Table of Contents
 
-- [The Team](#the-team)
 - [Overview](#overview)
     - [Introduction to the Challenge](#introduction-to-the-challenge)
     - [Set up](#set-up)
@@ -19,12 +22,6 @@ The contest was held in Singapore, at the very luxurious *Shangri-La* hotel on 1
     - [The Winning Strategy](#the-winning-strategy)
 - [Phase 2: The Final Hour](#phase-2-the-final-hour)
 - [Closing Thoughts](#closing-thoughts)
-
-## The Team
-
-From left to right: Si Yi, Zi Feng, Tejas, and... me!
-
-![jane_street_etc_2](https://user-images.githubusercontent.com/42400406/190888314-15209690-4a9d-4da1-a4e5-da077f6ef287.jpg)
 
 ## Overview
 
