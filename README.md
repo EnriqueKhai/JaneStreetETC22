@@ -102,7 +102,7 @@ Someone had bought 2 shares of `MS` and 12 shares of `XLF` previously but then f
 
 Then, we added a new strategy to production: at the start of each 5 minute round, buy as many shares of `MS` and `XLF` as we could and hold them all the way.
 
-The result? Surprising. We were now earning roughly $600 per round and we didn't even know why HAHAHA
+The result? Surprising. We were now earning roughly $600 per round and we didn't even know why HAHAHA (is it truly a trading challenge if there wasn't any speculation???)
 
 It was around here, at 2pm, that we advanced to 2nd overall and gained some much needed confidence!
 
