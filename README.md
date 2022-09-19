@@ -22,6 +22,9 @@ The contest was held in Singapore, at the very luxurious *Shangri-La* hotel on 1
     - [The Winning Strategy](#the-winning-strategy)
 - [Phase 2: The Final Hour](#phase-2-the-final-hour)
 - [Closing Thoughts](#closing-thoughts)
+    - [An Open Letter](#an-open-letter)
+    - [Regrets](#regrets)
+    - [A Treasured Experience](#a-treasured-experience)
 
 ## Overview
 
@@ -144,14 +147,22 @@ This is my first experience with algorithmic trading and it was a great learning
 
 Seeing our P&L increase steadily at first and then dramatically towards the end was also super exhilarating! That said, trading at a loss was anxiety-inducing in equal measure... the day was a roller coaster-ride to be sure!
 
+### An Open Letter
+
 For future teams, I will say that the entire challenge will be a time scramble. From understanding how the exchange works, how orders are placed, how feeds are read and how they can be parsed, etc. More or less as first-timers no team will get down a perfect strategy from the get-go.
 
 What **is** important is being able to adapt and learn the ropes on the fly to (1) develop a mental model of how trading works and (2) having the creativity to try different things! No matter how good you *think* your strategy is, the only thing that matters is whether it will **work**! So iterate often, develop quickly and test, test, test!
 
-If there was one thing I wish I had done (better), that would be to save the logs of **every** single round into their own `.csv` files and then fire up `pandas` to study what happened afterwards. This would provide greater insight into what other teams might be trying/ how the stocks were changing hands and how frequently. I would also be able to see how the strategies of my opponents changed over time and if I could counter them... :O
+Try hard, but don't take the event too seriously as well HAHAHA! Go out there and try silly tactics, gamble a bit and have... fun XD
 
-Also, don't take the event too seriously HAHAHA just go out try silly tactics and gamble a bit XD
+### Regrets
+
+Having participated once, I will sadly no longer be eligible for subsequent iterations.
+
+If there was one thing I wish I had done better, that would be to save the logs of **every** single round into their own `.csv` files and then fire up `pandas` to study what happened afterwards. That would have provided greater insight into what other teams might have been trying/ how the stocks were changing hands and how frequently. I might have been able to see how the strategies of my opponents changed over time and maybe counter them somehow hmm...
+
+### A Treasured Experience
 
 Overall, I felt the event was extremely well organized and very, very fun! The infrastructure alone must have been a humongous effort behind the scenes. The seamless execution to (1) ensure that the exchange ran smoothly and (2) rate-limited participants appropriately, (3) correctly servicing thousands of orders per minute and (4) broadcasting saids trades and other metadata to public feeds in a timely manner were especially impressive.
 
-PS. I also found it particularly thoughtful of Jane Street to include only students that have never participated in previous iterations of their ETC before - they wanted a level playing field and a better experience for everyone there!
+Thank you, Jane Street, for the amazing event. Really. It was memorable beyond words.
