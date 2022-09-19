@@ -98,11 +98,13 @@ Then, we added a new strategy to production: at the start of each 5 minute round
 
 The result? Surprising. We were now earning roughly $600 per round and we didn't even know why HAHAHA
 
-It was around here that we advanced to 2nd overall and gained some much needed confidence!
+It was around here, at 2pm, that we advanced to 2nd overall and gained some much needed confidence!
 
 ### The Winning Strategy
 
-The idea was simple. There were roughly 5,000 trades per round. Instead of racking our brains trying to earn the maximum possible profit on a **single** trade, why not earn a dollar on **every** one of them?
+Halfway through the competition, we realized something.
+
+There were roughly 5,000 trades per round. Instead of racking our brains trying to earn the maximum possible profit on a **single** trade, why not earn a dollar on **every** one of them?
 
 That is, we wanted to be market makers. For each asset, we would (A) compute its fair price and (B) place a buy order at `fair_price - 1` and another sell order at `fair_price + 1`, i.e., buy low and sell high.
 
