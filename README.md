@@ -144,6 +144,12 @@ This is my first experience with algorithmic trading and it was a great learning
 
 Seeing our P&L increase steadily at first and then dramatically towards the end was also super exhilarating! That said, trading at a loss was anxiety-inducing in equal measure... the day was a roller coaster-ride to be sure!
 
+For future teams, I will say that the entire challenge will be a time scramble. From understanding how the exchange works, how orders are placed, how feeds are read and how they can be parsed, etc. More or less as first-timers no team will get down a perfect strategy from the get-go.
+
+What **is** important is being able to adapt and learn the ropes on the fly to (1) develop a mental model of how trading works and (2) having the creativity to try different things! No matter how good you *think* your strategy is, the only thing that matters is whether it will **work**! So iterate often, develop quickly and test, test, test!
+
+Also, don't take the event too seriously HAHAHA just go out try silly tactics and gamble a bit XD
+
 Overall, I felt the event was extremely well organized and very, very fun! The infrastructure alone must have been a humongous effort behind the scenes. The seamless execution to (1) ensure that the exchange ran smoothly and (2) rate-limited participants appropriately, (3) correctly servicing thousands of orders per minute and (4) broadcasting saids trades and other metadata to public feeds in a timely manner were especially impressive.
 
 PS. I also found it particularly thoughtful of Jane Street to include only students that have never participated in previous iterations of their ETC before - they wanted a level playing field and a better experience for everyone there!
