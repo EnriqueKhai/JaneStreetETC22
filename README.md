@@ -76,13 +76,19 @@ Hence, we split ourselves further into two subteams. Zifeng and Si Yi drafted ta
 
 Zifeng and Si Yi were the quickest to enter the market; they prototyped their ADR arbitrage strategy and deployed it to production at breakneck speed.
 
+Basically, 1 share of `VALE` can be converted to/from 1 share of `VALBZ` (with a conversion fee of $10). Then, if the prices of those two instruments ever differed significantly due to inefficiencies in the market, we could buy the cheaper of the two, convert it into the other and sell for higher!
+
 The results were good too!
 
 We were earning around $300 per round and were consistently ranking between 3rd - 7th!
 
 ### ETF Arbitrage
 
-On our side, me and Tejas were not as productive. It was not immediately clear to me how we could detect arbitrage opportunities so Tejas took on the Mathematics while I collated live data for each round.
+On our side, the idea was similar.
+
+According to the specs, 10 shares of `XLF` could be converted to/from a basket of `[3 BOND, 2 GS, 3 MS, 2 WFC]` (with a conversion fee of $100). Then, if the sum of the underlying assets ever differed significantly from `XLF`, their aggregate, then we could buy the cheaper of the two, convert into the other and (again) sell for higher.
+
+That said, the details of the implementation were not immediately clear to me so Tejas took on the Mathematics while I collated live data for each round.
 
 The questions of interest included the following: (1) what are the opening and closing prices of each stock for each round and (2) how many trades of each stock took place per round.
 
