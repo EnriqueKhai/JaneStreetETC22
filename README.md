@@ -110,9 +110,9 @@ It was around here, at 2pm, that we advanced to 2nd overall and gained some much
 
 Halfway through the competition, we realized something.
 
-There were roughly 5,000 trades per round. Instead of racking our brains trying to earn the maximum possible profit on a **single** trade, why not earn a dollar on **every** one of them?
+There were roughly 5,000 trades per round. Instead of racking our brains trying to earn the maximum possible profit on a **single** trade, why not earn a dollar on **every** one of them? Instead of waiting for the market to be "ripe" for arbitrage (passive/ timing the market), we wanted a cut of every trade ever made (active/ time in the market).
 
-That is, we wanted to be market makers. For each asset, we would (A) compute its fair price and (B) place a buy order at `fair_price - 1` and another sell order at `fair_price + 1`, i.e., buy low and sell high.
+In essence, we wanted to be market makers. For each asset, we would (A) compute its fair price and (B) place a buy order at `fair_price - 1` and another sell order at `fair_price + 1`, i.e., buy low and sell high.
 
 Here, we set the delta to be `+/- 1` so as to keep the spread tight and ensure that our orders would always get filled first (and, in fact, every time).
 
