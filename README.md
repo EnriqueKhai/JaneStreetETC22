@@ -153,9 +153,9 @@ For future teams, I will say that the entire challenge will be a time scramble. 
 
 What **is** important is being able to adapt and learn the ropes on the fly to (1) develop a mental model of how trading works and (2) having the creativity to try different things! No matter how good you *think* your strategy is, the only thing that matters is whether it will **work**! So iterate often, develop quickly and test, test, test!
 
-> ... I hope you [develop a strategy] you’re proud of, and if you’re not, I hope you have the courage to start over again. -- F. Scott Fitzgerald (probably)
-
 Try hard, but don't take the event too seriously as well HAHAHA! Go out there and try silly tactics, gamble a bit and have... fun XD
+
+> ... I hope you [develop a strategy] you’re proud of, and if you’re not, I hope you have the courage to start over again. -- F. Scott Fitzgerald (probably)
 
 ### Regrets
 
@@ -167,4 +167,4 @@ If there was one thing I wish I had done better, that would be to save the logs 
 
 Overall, I felt the event was extremely well organized and very, very fun! The infrastructure alone must have been a humongous effort behind the scenes. The seamless execution to (1) ensure that the exchange ran smoothly and (2) rate-limited participants appropriately, (3) correctly servicing thousands of orders per minute and (4) broadcasting saids trades and other metadata to public feeds in a timely manner were especially impressive.
 
-Thank you, Jane Street, for the amazing event. Really. It was memorable beyond words.
+Thank you, Jane Street, for the amazing event. It really was memorable beyond words.
